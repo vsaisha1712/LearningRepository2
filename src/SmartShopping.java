@@ -62,6 +62,12 @@ public class SmartShopping {
 
 }
 
+/**
+ * Premium Customers extend Smart shopping 
+ * @author HP
+ *
+ */
+
 class PremiumCustomers extends SmartShopping{   //For premium customers
         
         void billGenerate(int code) {
